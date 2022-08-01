@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 typedef long long ll;
+typedef make_pair mp;
+typedef priority_queue pq;
 using namespace std;
 
 int main(){
